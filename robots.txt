@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://emapaipa.github.io/Leb/sitemap_index.txt
+Sitemap: https://emapaipa.github.io/kOQ/sitemap_index.txt
+Sitemap: https://emapaipa.github.io/vwo/sitemap_index.txt
+Sitemap: https://emapaipa.github.io/wPD/sitemap_index.txt
